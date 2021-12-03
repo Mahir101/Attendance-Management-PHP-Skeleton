@@ -27,6 +27,3 @@ Attendance Management System is developed in a standard way using  HTML, CSS, PH
 - Exploring HTML,CSS at w3schools.com
 - System Analysis and Design.
 - Learn how to learn.  
-
-## License
-
